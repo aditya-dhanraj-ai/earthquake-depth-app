@@ -27,7 +27,7 @@ A Machine Learning web application that predicts the depth of an earthquake base
 
 ## 💻 Live Demo
 
-🔗 **[Click here to try the Live App](https://earthquake-depth-app.onrender.com)** *(Note: Replace with your actual Render URL after deployment)*
+🔗 **[Click here to try the Live App](https://earthquake-depth-app.onrender.com/)** *(Note: Replace with your actual Render URL after deployment)*
 
 ## 👨‍💻 Developer
 
